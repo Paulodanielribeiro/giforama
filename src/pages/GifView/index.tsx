@@ -1,6 +1,4 @@
-/**
- * TODO implementar
- */
+
 
 import { useLocation } from "react-router-dom";
 import { Photo } from "../../models/Photo";
